@@ -1,5 +1,3 @@
-# Create a README.md file with the given content
-readme_content = """
 # Social Connect Platform
 
 A microservices-based networking platform designed for professionals to connect, share updates, and manage their connections. This project emphasizes scalability, real-time notifications, and modular services using Spring Boot, Kafka, Docker, and Kubernetes.
@@ -12,8 +10,6 @@ A microservices-based networking platform designed for professionals to connect,
 - [Setup and Installation](#setup-and-installation)
 - [Future Plans](#future-plans)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
