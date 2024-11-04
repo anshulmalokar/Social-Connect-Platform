@@ -77,8 +77,7 @@ Each service is containerized with Docker and orchestrated using Kubernetes for 
 ## Future Plans
 
 - **Deploy on Kubernetes** for high availability and auto-scaling.
-- **Additional Features**: Social feeds, enhanced analytics, and content recommendations.
-
+- **Additional Features**: Social feeds, Real-time Notifications, enhanced analytics, and content recommendations.
 ---
 
 ## Technologies Used
